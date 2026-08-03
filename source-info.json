@@ -1,0 +1,12 @@
+{
+  "generated_utc": "2026-08-02T23:59:01.3840913Z",
+  "base_repository": "xmduke/ran-online-ep7",
+  "base_commit": "309eab16977127ea5f1622d2424b6f34f4d25cd5",
+  "base_directory": "=MAX4.2SDK",
+  "overlay_repository": "niftools/max_nif_plugin",
+  "overlay_commit": "f131c8c4ddefb12f6252d469552f607e5fdc7c4f",
+  "overlay_archive": "nif_maxsdk.zip",
+  "overlay_directory": "gmax12/maxsdk/Include",
+  "required_preprocessor_definition": "GAME_VER",
+  "target_architecture": "Win32"
+}

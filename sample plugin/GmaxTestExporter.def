@@ -1,0 +1,7 @@
+LIBRARY GmaxTestExporter
+
+EXPORTS
+    LibDescription
+    LibNumberClasses
+    LibClassDesc
+    LibVersion
